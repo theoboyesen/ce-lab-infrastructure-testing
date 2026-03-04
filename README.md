@@ -33,3 +33,5 @@
 - Custom scripts enforce organization-specific standards
 - Plan parsing validates the intended infrastructure changes
 - Pre-commit hooks shift testing left to the developer's machine
+
+# Submission
